@@ -1,0 +1,23 @@
+{
+  "name": "tiny-pagination",
+  "version": "1.0.0",
+  "description": " get pagination info simply and quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tofishes/tiny-pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "page"
+  ],
+  "author": "tofishes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tofishes/tiny-pagination/issues"
+  },
+  "homepage": "https://github.com/tofishes/tiny-pagination#readme"
+}
